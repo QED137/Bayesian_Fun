@@ -2,19 +2,19 @@
 Visulisation of Baysian Estiamte of Posterior Distribution
 
 
-This Jupyter Notebook provides an interactive visualization of Bayesian updating for different prior distributions and likelihood models. It allows you to explore how the posterior distribution changes as you vary the parameters of the prior, likelihood, and data.
+# Bayesian Inference Visualization
+
+This repository contains Python code for visualizing Bayesian inference using interactive widgets in Jupyter notebooks.
+
+## Overview
+
+ I Bayesian inference is a powerful statistical framework for updating beliefs about parameters in the presence of new data. This project demonstrates Bayesian updates for different prior distributions (Gaussian, Poisson, Uniform, and Bernoulli) and visualizes the changes in the posterior distribution as data is observed.
 
 ## Dependencies
 
-Make sure you have the following libraries installed:
+pip install requirement.txt
 
-* numpy
-* scipy
-* matplotlib
-* seaborn
-* ipywidgets
-
-You can install them using pip:
+You can install these dependencies using pip:
 
 ```bash
 pip install numpy scipy matplotlib seaborn ipywidgets
