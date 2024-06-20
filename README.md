@@ -11,7 +11,10 @@ I am a big fan of Bayesian inference because it offers significant advantages ov
 
 ## Dependencies
 
-```bahs
-pip install requirement.txt
+```bash
+pip install requirement.txt ``
 
 
+
+# Usage
+Clone the repository and run it on Jupyter -notebook
