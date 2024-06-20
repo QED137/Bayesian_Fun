@@ -15,8 +15,4 @@ This repository contains Python code for visualizing Bayesian inference using in
 ```bahs
 pip install requirement.txt
 
-You can install these dependencies using pip:
-
-```bash
-pip install numpy scipy matplotlib seaborn ipywidgets
 
