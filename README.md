@@ -2,7 +2,7 @@
 Visulisation of Baysian Estiamte of Posterior Distribution
 
 
-# Bayesian Inference Visualization
+## Bayesian Inference Visualization
 
 This repository contains Python code for visualizing Bayesian inference using interactive widgets in Jupyter notebooks.
 
