@@ -12,6 +12,7 @@ This repository contains Python code for visualizing Bayesian inference using in
 
 ## Dependencies
 
+```bahs
 pip install requirement.txt
 
 You can install these dependencies using pip:
